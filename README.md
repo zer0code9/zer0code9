@@ -16,13 +16,13 @@
 <hr>
 
 <section align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,cpp,java,py,bash" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,cpp,java,py,postgresql,bash,c" />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,nodejs,npm,react,nextjs,tailwind,discordjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,react,nextjs,tailwind,discordjs" />
   <br />
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,mongodb,firebase,docker,vscode,visualstudio,clion,idea,pycharm" />
   <br />
-  <img src="https://skillicons.dev/icons?i=vercel,github" />
+  <img src="https://skillicons.dev/icons?i=jquery,pytorch" />
 </section>
 
 <hr>
